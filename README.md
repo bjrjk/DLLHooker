@@ -1,5 +1,5 @@
-# WinAPIHooker
-Windows API Hooker.
+# DLLHooker
+DLL Hooker using DLL Redirection.
 
 ## Development Environment
 
