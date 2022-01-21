@@ -1,0 +1,3 @@
+LIBRARY	HookDll.dll
+EXPORTS
+		add=add2
